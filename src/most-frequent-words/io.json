@@ -1,0 +1,10 @@
+[
+	{
+		"input": "Merhaba, benim adım Ahmet. Benim hobim bisiklet sürmek.",
+		"output": "Benim"
+	},
+	{
+		"input": "Bu bir test metnidir. Bu metin test için yazılmıştır.",
+		"output": "Bu\ntest"
+	}
+]
