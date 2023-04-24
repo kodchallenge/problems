@@ -1,6 +1,6 @@
 #include "solution.h"
 #include <stdio.h>
 
-void perfectNumber(int num) {
+void perfectNumber() {
     throw "Implementation this function";
 };

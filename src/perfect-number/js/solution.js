@@ -1,8 +1,4 @@
-/**
- * 
- * @param {number} num 
- */
-function perfectNumber(num) {
+function perfectNumber() {
     throw "Implementation this function";
 };
 

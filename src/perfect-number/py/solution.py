@@ -1,0 +1,7 @@
+
+"""
+
+"""
+def perfectNumber():
+    raise NotImplementedError()
+

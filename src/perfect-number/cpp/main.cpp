@@ -4,7 +4,7 @@
 #include <cstdlib>
 
 int main(int argc, char* argv[]) {
-    int num = std::stoi(argv[1]);
-    kod::perfectNumber(num);
+    
+    kod::perfectNumber();
     return 0;
 }

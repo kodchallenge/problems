@@ -4,5 +4,5 @@
 #include <string> //for std::string type
 
 namespace kod {
-    void perfectNumber(int num);
+    void perfectNumber();
 }

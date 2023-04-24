@@ -2,4 +2,4 @@
 #define SOLUTION_HPP
 #endif
 
-void perfectNumber(int num);
+void perfectNumber();
