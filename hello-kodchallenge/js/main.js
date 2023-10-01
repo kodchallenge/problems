@@ -1,5 +1,6 @@
 const { helloKodChallenge } = require("./solution.js")
+const kod = require("../../runner-lib/js/kod.js")
 
 const data = helloKodChallenge();
 
-console.log(data);
+kod.print(data)

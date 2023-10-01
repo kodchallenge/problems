@@ -1,8 +1,10 @@
 /**
+ * @param {number[]} nums
+ * @param {number} target
  * @returns {number[][]}
  */
 
-function findSubarrayWithTarget() {
+function findSubarrayWithTarget(nums, target) {
     // TODO: Implement this function
 }
 
