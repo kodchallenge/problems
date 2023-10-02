@@ -1,0 +1,10 @@
+[
+    {
+        "input": "\\\"Merhaba, benim adım Ahmet. Benim hobim bisiklet sürmek. Ahmet çok iyi bisiklet sürer.\\\"",
+        "output": "[\"benim\",\"ahmet\",\"bisiklet\"]"
+    },
+    {
+        "input": "\\\"Ali ve Ayşe okula gidiyorlar. Ali, Ayşe'yi çok seviyor.\\\"",
+        "output": "[\"ali\", \"ayşe\"]"
+    }
+]

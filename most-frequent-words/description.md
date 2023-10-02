@@ -9,7 +9,7 @@ Verilen bir metin içinde, en sık tekrar eden kelimeleri bulun. Metin içindeki
 **Not:** Metin içindeki tüm harfler küçük harf olarak kabul edilir.
 
 ### Örnek 1
-```
+```plain
 input: text = "Merhaba, benim adım Ahmet. Benim hobim bisiklet sürmek. Ahmet çok iyi bisiklet sürer."
 
 output: ["benim", "ahmet", "bisiklet"]
@@ -17,7 +17,7 @@ output: ["benim", "ahmet", "bisiklet"]
 
 
 ### Örnek 2
-```
+```plain
 input: text = "Ali ve Ayşe okula gidiyorlar. Ali, Ayşe'yi çok seviyor."
 
 output: ["ali", "ayşe"]
